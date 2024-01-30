@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Job Request">38f709e547884e10ee767ac8f36d43e5</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 01:34:59</sys_created_on>
+        <sys_id>0b68c12947884e10ee767ac8f36d4318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Job Request</sys_name>
+        <sys_package display_value="BPSM Services" source="x_1131805_bpsm_s_0">c3d641a547884e10ee767ac8f36d43ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BPSM Services">c3d641a547884e10ee767ac8f36d43ab</sys_scope>
+        <sys_update_name>sc_cat_item_category_0b68c12947884e10ee767ac8f36d4318</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 01:34:59</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BPSM Services">c3d641a547884e10ee767ac8f36d43ab</application>
+        <file_path/>
+        <instance_id>3f2635951b750950e84d2f8dee4bcbb9</instance_id>
+        <instance_name>dev125729</instance_name>
+        <name>sc_cat_item_category_0b68c12947884e10ee767ac8f36d4318</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Job Request">38f709e547884e10ee767ac8f36d43e5</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-30 01:34:59</sys_created_on><sys_id>0b68c12947884e10ee767ac8f36d4318</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.Job Request</sys_name><sys_package display_value="BPSM Services" source="x_1131805_bpsm_s_0">c3d641a547884e10ee767ac8f36d43ab</sys_package><sys_policy/><sys_scope display_value="BPSM Services">c3d641a547884e10ee767ac8f36d43ab</sys_scope><sys_update_name>sc_cat_item_category_0b68c12947884e10ee767ac8f36d4318</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-30 01:34:59</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>497156373</payload_hash>
+        <record_name>Services.Job Request</record_name>
+        <reverted_from/>
+        <source>c3d641a547884e10ee767ac8f36d43af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 01:34:59</sys_created_on>
+        <sys_id>4b68c12947884e10ee767ac8f36d431c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d580158ad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 01:34:59</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>cb68c12924884e109c3ed5f275579b1b</update_guid>
+        <update_guid_history>cb68c12924884e109c3ed5f275579b1b:497156373</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.Job Request">9778452947884e10ee767ac8f36d430c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 01:35:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>4b8b140c132e4880aea987f2d7cf2400</sys_id>
+        <sys_metadata>0b68c12947884e10ee767ac8f36d4318</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Job Request</sys_name>
+        <sys_package display_value="BPSM Services" source="x_1131805_bpsm_s_0">c3d641a547884e10ee767ac8f36d43ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BPSM Services">c3d641a547884e10ee767ac8f36d43ab</sys_scope>
+        <sys_scope_delete display_value="">1516d61806ab4060989eec293b37a400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_0b68c12947884e10ee767ac8f36d4318</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_0b68c12947884e10ee767ac8f36d4318">4b68c12947884e10ee767ac8f36d431c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 01:35:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
