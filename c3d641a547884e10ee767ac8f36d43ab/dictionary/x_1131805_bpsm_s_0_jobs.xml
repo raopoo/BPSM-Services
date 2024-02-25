@@ -2,5 +2,6 @@
     <element db_object_id="3387cda547884e10ee767ac8f36d439d" extends="task" label="Jobs" max_length="40" name="x_1131805_bpsm_s_0_jobs" type="collection">
         <element label="Category" max_length="40" name="category" type="string"/>
         <element label="Job Type" max_length="40" name="job_type" type="string"/>
+        <element label="Parts ordered" max_length="40" name="parts_ordered" type="string"/>
     </element>
 </database>

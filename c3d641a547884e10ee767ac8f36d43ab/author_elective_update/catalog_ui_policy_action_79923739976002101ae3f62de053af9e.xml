@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="BPSM Job Request">38f709e547884e10ee767ac8f36d43e5</catalog_item>
+        <catalog_variable>IO:3788852947884e10ee767ac8f36d439f</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-25 05:08:32</sys_created_on>
+        <sys_id>79923739976002101ae3f62de053af9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>what_do_you_need_help_with</sys_name>
+        <sys_package display_value="BPSM Services" source="x_1131805_bpsm_s_0">c3d641a547884e10ee767ac8f36d43ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BPSM Services">c3d641a547884e10ee767ac8f36d43ab</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_79923739976002101ae3f62de053af9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-25 05:08:32</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Parts list is not displayed when Job type is not parts order">528e6fb1976002101ae3f62de053af15</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>what_do_you_need_help_with</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BPSM Services">c3d641a547884e10ee767ac8f36d43ab</application>
+        <file_path/>
+        <instance_id>8854fd62dbf6315405ef1729139619aa</instance_id>
+        <instance_name>dev231680</instance_name>
+        <name>catalog_ui_policy_action_79923739976002101ae3f62de053af9e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="BPSM Job Request">38f709e547884e10ee767ac8f36d43e5</catalog_item><catalog_variable>IO:3788852947884e10ee767ac8f36d439f</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-25 05:08:32</sys_created_on><sys_id>79923739976002101ae3f62de053af9e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>what_do_you_need_help_with</sys_name><sys_package display_value="BPSM Services" source="x_1131805_bpsm_s_0">c3d641a547884e10ee767ac8f36d43ab</sys_package><sys_policy/><sys_scope display_value="BPSM Services">c3d641a547884e10ee767ac8f36d43ab</sys_scope><sys_update_name>catalog_ui_policy_action_79923739976002101ae3f62de053af9e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-25 05:08:32</sys_updated_on><table/><ui_policy display_value="Parts list is not displayed when Job type is not parts order">528e6fb1976002101ae3f62de053af15</ui_policy><value/><value_action>ignore</value_action><variable>what_do_you_need_help_with</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1055781408</payload_hash>
+        <record_name>what_do_you_need_help_with</record_name>
+        <reverted_from/>
+        <source>2b4fbd4c979402101ae3f62de053af28</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-25 05:08:32</sys_created_on>
+        <sys_id>24a23739976002101ae3f62de053aff5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ddeaa31620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-25 05:08:32</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>28a23739d5600210cccc5bcb73886af4</update_guid>
+        <update_guid_history>28a23739d5600210cccc5bcb73886af4:-1055781408</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="what_do_you_need_help_with">d3e4bbf9976002101ae3f62de053af18</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-25 05:18:32</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>5adc1160b3fb4da7b0fc32214dfb6891</sys_id>
+        <sys_metadata>79923739976002101ae3f62de053af9e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>what_do_you_need_help_with</sys_name>
+        <sys_package display_value="BPSM Services" source="x_1131805_bpsm_s_0">c3d641a547884e10ee767ac8f36d43ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BPSM Services">c3d641a547884e10ee767ac8f36d43ab</sys_scope>
+        <sys_scope_delete display_value="">1516d61806ab4060989eec293b37a400</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_79923739976002101ae3f62de053af9e</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_79923739976002101ae3f62de053af9e">24a23739976002101ae3f62de053aff5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-25 05:18:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

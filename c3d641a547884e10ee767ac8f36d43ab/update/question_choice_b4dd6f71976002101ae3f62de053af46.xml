@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="What parts do you need? ">ea4d6b31976002101ae3f62de053af87</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-25 04:47:31</sys_created_on>
+        <sys_id>b4dd6f71976002101ae3f62de053af46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hard Drive</sys_name>
+        <sys_package display_value="BPSM Services" source="x_1131805_bpsm_s_0">c3d641a547884e10ee767ac8f36d43ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BPSM Services">c3d641a547884e10ee767ac8f36d43ab</sys_scope>
+        <sys_update_name>question_choice_b4dd6f71976002101ae3f62de053af46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-25 04:47:31</sys_updated_on>
+        <text>Hard Drive</text>
+        <value>hard_drive</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=b4dd6f71976002101ae3f62de053af46"/>
+</record_update>
